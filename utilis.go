@@ -7,6 +7,7 @@ func main(){
 <<<<<<< HEAD
    fmt.Println("Conflits")
    fmt.Println("Learning Git")
+<<<<<<< HEAD
    fmt.Println("Rebasing")
 }
 
@@ -18,5 +19,7 @@ func main(){
 =======
    fmt.Println("Conflits")
 >>>>>>> be974bb (Added another println)
+=======
+>>>>>>> f340331 (removed error)
 }
 >>>>>>> 2b8de08 (added main package)
